@@ -1,0 +1,6 @@
+git clone https://github.com/your-username/commonlit-ai-helper
+cd commonlit-ai-helper
+# Add files
+git add .
+git commit -m "Initial commit with Streamlit app"
+git push origin main
